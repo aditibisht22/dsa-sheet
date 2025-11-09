@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        if(x<0) return false;
        long int og = x;
        long int rev = 0;
         while(x){
@@ -8,7 +9,7 @@ public:
             x/=10;
             rev = rev*10 + d;
         }
-        if(og < 0) og = -1*og;
+     
         if(og == rev) return true;
         return false;
     }
