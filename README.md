@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditibisht22/dsa-sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/aditibisht22/dsa-sheet/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/aditibisht22/dsa-sheet/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
