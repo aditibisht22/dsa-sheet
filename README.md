@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aditibisht22/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/aditibisht22/dsa-sheet/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/aditibisht22/dsa-sheet/tree/master/1078-remove-outermost-parentheses) |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aditibisht22/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/aditibisht22/dsa-sheet/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
