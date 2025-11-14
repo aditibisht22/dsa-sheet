@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aditibisht22/dsa-sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/2032-largest-odd-number-in-string) |
+| [2406-decode-the-message](https://github.com/aditibisht22/dsa-sheet/tree/master/2406-decode-the-message) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
+| [2406-decode-the-message](https://github.com/aditibisht22/dsa-sheet/tree/master/2406-decode-the-message) |
 ## Sorting
 |  |
 | ------- |
