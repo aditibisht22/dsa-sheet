@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
+| [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditibisht22/dsa-sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aditibisht22/dsa-sheet/tree/master/0680-valid-palindrome-ii) |
+| [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/aditibisht22/dsa-sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aditibisht22/dsa-sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
+| [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/aditibisht22/dsa-sheet/tree/master/2406-decode-the-message) |
 ## Sorting
 |  |
