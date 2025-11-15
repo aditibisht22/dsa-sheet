@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditibisht22/dsa-sheet/tree/master/0014-longest-common-prefix) |
+| [0283-move-zeroes](https://github.com/aditibisht22/dsa-sheet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditibisht22/dsa-sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aditibisht22/dsa-sheet/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/aditibisht22/dsa-sheet/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aditibisht22/dsa-sheet/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
