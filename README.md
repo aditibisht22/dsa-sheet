@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditibisht22/dsa-sheet/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/aditibisht22/dsa-sheet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditibisht22/dsa-sheet/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
