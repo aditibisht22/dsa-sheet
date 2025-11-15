@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditibisht22/dsa-sheet/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditibisht22/dsa-sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditibisht22/dsa-sheet/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/aditibisht22/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditibisht22/dsa-sheet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
