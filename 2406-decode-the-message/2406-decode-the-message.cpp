@@ -1,23 +1,29 @@
 class Solution {
 public:
     string decodeMessage(string key, string message) {
+        
+        //create mapping
         char start = 'a';
         char mapping[300] = {0};
-        string ans = "";
+        string ans="";
 
         for(auto ch: key){
-            if(ch != ' ' && mapping[ch] == 0){
+            if(mapping[ch] == 0 && ch != ' '){
             mapping[ch] = start;
-            start++;}
+            start++;
+            }
+            
         }
 
+        //use mapping
         for(auto ch: message){
-            if(ch == ' ') ans.push_back(' ');
-            else
-            ans.push_back(mapping[ch]);
-
+            if(ch == ' ')
+            ans.push_back(' ');
+            else{
+                ans.push_back(mapping[ch]);
+            }
         }
         return ans;
-
     }
+
 };
