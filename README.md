@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aditibisht22/dsa-sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aditibisht22/dsa-sheet/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Array
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditibisht22/dsa-sheet/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditibisht22/dsa-sheet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
@@ -49,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/aditibisht22/dsa-sheet/tree/master/2406-decode-the-message) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -78,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aditibisht22/dsa-sheet/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
