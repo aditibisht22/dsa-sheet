@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aditibisht22/dsa-sheet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aditibisht22/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/aditibisht22/dsa-sheet/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aditibisht22/dsa-sheet/tree/master/0680-valid-palindrome-ii) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditibisht22/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditibisht22/dsa-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aditibisht22/dsa-sheet/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/aditibisht22/dsa-sheet/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aditibisht22/dsa-sheet/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/aditibisht22/dsa-sheet/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
