@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/aditibisht22/dsa-sheet/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aditibisht22/dsa-sheet/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aditibisht22/dsa-sheet/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2406-decode-the-message](https://github.com/aditibisht22/dsa-sheet/tree/master/2406-decode-the-message) |
 ## Sorting
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditibisht22/dsa-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
