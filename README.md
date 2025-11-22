@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditibisht22/dsa-sheet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/aditibisht22/dsa-sheet/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/aditibisht22/dsa-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aditibisht22/dsa-sheet/tree/master/0680-valid-palindrome-ii) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditibisht22/dsa-sheet/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/aditibisht22/dsa-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2406-decode-the-message](https://github.com/aditibisht22/dsa-sheet/tree/master/2406-decode-the-message) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/aditibisht22/dsa-sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/aditibisht22/dsa-sheet/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -106,5 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditibisht22/dsa-sheet/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditibisht22/dsa-sheet/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditibisht22/dsa-sheet/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
