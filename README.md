@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditibisht22/dsa-sheet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/aditibisht22/dsa-sheet/tree/master/0704-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/aditibisht22/dsa-sheet/tree/master/0926-find-and-replace-pattern) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditibisht22/dsa-sheet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aditibisht22/dsa-sheet/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditibisht22/dsa-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/aditibisht22/dsa-sheet/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
