@@ -5,7 +5,7 @@ public:
 void markRows(vector<vector<int>>& matrix, int i ){
     for(int j =0; j<matrix[i].size(); j++){
           if(matrix[i][j] != 0){
-                 matrix[i][j] = INT_MIN;
+                 matrix[i][j] = -22;
           }
     }
 }
@@ -13,7 +13,7 @@ void markRows(vector<vector<int>>& matrix, int i ){
 void markCol(vector<vector<int>>& matrix, int j ){
     for(int i  = 0; i<matrix.size(); i++){
         if(matrix[i][j] != 0){
-             matrix[i][j] = INT_MIN;
+             matrix[i][j] = -22;
         }
     }
 }
@@ -28,7 +28,7 @@ void markCol(vector<vector<int>>& matrix, int j ){
         }
         for(int i = 0; i<matrix.size(); i++){
             for(int j = 0; j<matrix[i].size(); j++){
-                if(matrix[i][j] == INT_MIN){
+                if(matrix[i][j] == -22){
                     matrix[i][j] = 0;
                 }
             }
