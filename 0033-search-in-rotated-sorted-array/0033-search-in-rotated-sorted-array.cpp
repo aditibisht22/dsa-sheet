@@ -34,12 +34,13 @@ public:
     int search(vector<int>& nums, int target) {
         int pivot = pivotIndex(nums);
         //if pivot se phle target
-        if(target < nums[0]){
-            return binary(nums, pivot+1, nums.size()-1, target);
+        if(target >= nums[0] && target <= nums[pivot]){
+                  return binary(nums,0, pivot, target);
          
         }
         else
-            return binary(nums,0, pivot, target);
+      
+            return binary(nums, pivot+1, nums.size()-1, target);
 
     }
 };
