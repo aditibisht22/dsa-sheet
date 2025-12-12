@@ -9,7 +9,9 @@ public:
                     count++;
                 }
             }
+        
             if(count > nums.size()/3){
+                if(find(ans.begin(), ans.end(), nums[i]) == ans.end())
                     ans.push_back(nums[i]);
                 }
         }
