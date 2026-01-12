@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aditibisht22/dsa-sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0509-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aditibisht22/dsa-sheet/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Array
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/aditibisht22/dsa-sheet/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/aditibisht22/dsa-sheet/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditibisht22/dsa-sheet/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
