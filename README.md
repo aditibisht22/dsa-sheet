@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aditibisht22/dsa-sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/aditibisht22/dsa-sheet/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditibisht22/dsa-sheet/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0509-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aditibisht22/dsa-sheet/tree/master/2032-largest-odd-number-in-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditibisht22/dsa-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aditibisht22/dsa-sheet/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditibisht22/dsa-sheet/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aditibisht22/dsa-sheet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditibisht22/dsa-sheet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditibisht22/dsa-sheet/tree/master/0485-max-consecutive-ones) |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aditibisht22/dsa-sheet/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditibisht22/dsa-sheet/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditibisht22/dsa-sheet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
